@@ -1,0 +1,8 @@
+5. Apa perbedaan puppet, ansible, chef dan terraform? Gambarkan dan jelaskan! 
+
+Jawaban :
+
+Puppet adalah perintis otomatisasi konfigurasi dan solusi orkestrasi penerapan untuk aplikasi dan infrastruktur terdistribusi.
+Ansible adalah sebuah tool Automation. Ansible dapat membantu melakukan instalasi, deployment, bahkan mengupdate server.
+Chef dimulai sebagai alat penyebaran server ujung ke ujung internal untuk Opscode sebelum dirilis sebagai solusi sumber terbuka. Chef juga menggunakan arsitektur client-server dan menawarkan konfigurasi dalam Ruby DSL menggunakan paradigma pemrograman imperatif. Kerangka kerja otomatisasi infrastruktur cloudnya yang fleksibel memungkinkan pengguna untuk menginstal aplikasi
+Terraform merupakan sebuah sarana untuk membuat, merubah, dan menggabungkan infrastruktur dengan aman dan efisien menggunakan kode. Konsep ini dikenal juga dengan istilah “Infrastructure as Code”.
