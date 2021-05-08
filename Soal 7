@@ -1,0 +1,6 @@
+Soal 7.Gambarkan sebuah infrastruktur server yang baik dan benar untuk aplikasi microservices?
+
+Jawaban :
+Dalam arsitektur layanan mikro, setiap layanan mikro memiliki tugas sederhana, dan berkomunikasi dengan klien atau dengan layanan mikro lain dengan menggunakan mekanisme komunikasi ringan seperti permintaan REST API.
+
+Diagram berikut menunjukkan arsitektur aplikasi yang terdiri dari beberapa layanan mikro.
