@@ -1,0 +1,13 @@
+Soal 1 
+
+Dalam sebuah perusahaan Andi bekerja sebagai DevOps, jelaskan menurut pendapatmu definisi tentang DevOps dan seberapa penting DevOps di suatu perusahaan serta gambarkan flow DevOps dari development hingga ke production?  
+
+Jawaban: 
+DevOps merupakan kependekan dari Development dan Operations. DevOps adalah serangkaian praktik yang mengotomatiskan proses antara pengembangan aplikasi dan tim pengembang agar mereka dapat melakukan proses build, test dan release perangkat lunak lebih cepat dan lebih handal. Pernan DevOps mengatasi berbagai permasalahan yang ada perusahaan IT untuk mengatur alur source code dalam hal pengembangan dan operasional.
+Alur :
+1.Development
+2.Peer Review
+3.QA
+4.Pre-Prod
+5.Production
+
