@@ -1,0 +1,14 @@
+Soal 8. Buatlah sebuah aplikasi statis dengan jekyll atau hugo, kemudian upload aplikasi tersebut dari komputer lokal ke github pages (https://pages.github.com), agar aplikasi tersebut dapat diakses secara publik.Contoh : sgnd.github.io Sertakan screenshot step by step-nya atau record menjadi sebuah video 
+
+Jawaban :
+
+1. Memilih Thema hugo-coder
+2. Clone ke Vs Code
+3. Kemudia saya pilih di rektori D 
+4. Lalu membuat new repository baru di github sesuai dengan nama yang di repository nya 
+5. Melakukan git init terlebih dahulu
+6. Kemudian di commit 
+7. Kemudian git branch -M main
+8. git remote add origin https://github.com/syaripuddin/hugo-coder.git
+9. git push -u origin main
+10. https://syaripuddin.github.io/hugo-coder/
