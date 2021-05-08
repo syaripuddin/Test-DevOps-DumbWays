@@ -1,0 +1,9 @@
+4. CI/CD (Continuous Integration/Continuous Development) merupakan hal yang sering ditemui oleh seorang DevOps. Menurut pendapatmu mengapa CI/CD diperlukan dan berikan gambaran diagram kerjanya (Workflow)!  
+
+Jawaban : 
+#1 Continuous Integration
+Continuous Integration merupakan layanan yang diberikan DevOps untuk melakukan build dan automation testing. Kegiatan ini dikerjakan dengan menggunakan tools berupa Source Code Repository (SCR) untuk menemukan error code dan fixed code.
+
+#2 Continuous Delivery
+Continuous Delivery selalu bekerja di dalam software development untuk merubah kode. Proses ini dilakukan setelah Continuous Integration untuk menambah update lebih banyak untuk aplikasi yang sedang berjalan.
+
