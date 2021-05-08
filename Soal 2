@@ -1,0 +1,7 @@
+2. Sebutkan perbedaan antara AWS dan OpenStack? Sebutkan secara jelas list tersebut!  
+
+Jawaban  : 
+
+Amazon Web Services (AWS) adalah penawaran sistem Cloud oleh perusahaan Amazon, yang mencakup semua penawaran utama dari solusi cloud seperti IaaS (Infrastructure as a Service), PaaS (Platform as a Service) dan PaaS (Platform as a Service) . Pada dasarnya ini memberikan layanannya melalui internet dalam hal Bandwidth, Penyimpanan dan dukungan Ad Hoc untuk API.
+Kluster besar penyimpanan, sumber daya jaringan, dan komputasi dapat dikelola oleh sistem OpenStack di seluruh pusat data, yang dapat dikelola melalui konsol dasbor atau melalui API berdasarkan OpenStack. Ini mendukung semua teknologi sumber terbuka dan bekerja dengan baik dengan semua perangkat lunak perusahaan populer yang menjadikannya solusi sempurna untuk beragam infrastruktur
+
