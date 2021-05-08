@@ -1,0 +1,13 @@
+6. Jika di sebuah perusahaan memiliki banyak server, kemudian kita ingin melihat utilitas cpu, memory, storage tanpa harus melihat ke dalam masing-masing server. Apa yang harus dilakukan? Jelaskan dan berikan gambaran terkait hal tersebut! 
+
+Jawaban : 
+
+Bisa dengan tools 
+1. SolarWinds System Management Bundle
+2. PRTG
+3. Nagios XI
+4. hwmonitor
+5 SysGuage
+6. Zabbix
+7. ManageEngine OpManager
+  
