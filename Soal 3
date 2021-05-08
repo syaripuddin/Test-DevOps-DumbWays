@@ -1,0 +1,6 @@
+3. Dalam proses development aplikasi membutuhkan git, menurut kamu apa itu git dan bagaimana cara kerjanya? Sebutkan dan jelaskan! 
+
+Jawaban :
+Git adalah salah satu sistem pengontrol versi (Version Control System) pada proyek perangkat lunak yang diciptakan oleh Linus Torvalds.
+Git berpikir tentang sebuah data lebih seperti sekumpulan snapshot dari sebuah miniatur filesystem. Setiap kali melakukan commit, atau menyimpan keadaan dari proyek di Git, pada dasarnya itu mengambil sebuah gambar tentang bagaimana tampilan semua berkas Anda pada saat itu dan menyimpan acuan kepada snapshot tersebut.
+
